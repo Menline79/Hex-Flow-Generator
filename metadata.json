@@ -1,0 +1,5 @@
+{
+  "name": "HexFlow Optimizer",
+  "description": "A performance analysis and code optimization tool providing a high-throughput solution for Python Named Pipe streaming.",
+  "requestFramePermissions": []
+}
