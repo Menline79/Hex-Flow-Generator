@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1nCwM6ouP82_F67YSYUYXSc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Run Python script on Windows
+
+1. Run the script
+2. Run your program:
+   program.exe < \\.\pipe\hexpipe
